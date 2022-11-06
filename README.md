@@ -38,5 +38,5 @@ Adım 4: [2,3,4,5,7,9,8,15,6]
  
  www.patika.dev
  
- 
+ [Patika.dev](https://www.patika.dev/tr)
  
